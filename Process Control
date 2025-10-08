@@ -1,0 +1,6 @@
+Nonlinear CSTR System Model Simulation Using Simulink Jan 2025 - Feb 2025
+Dr. Jayaram Valluru, Assistant Professor - IIT Ropar 
+– Simulated a Nonlinear CSTR System model using MATLAB Simulink.
+– Performed model linearization and parameter estimation using optimization techniques.
+– Designed and tuned PI/PID controllers for setpoint tracking and disturbance rejection.
+– Achieved accurate system response with low RMSE using manual and auto-tuning methods.
